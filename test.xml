@@ -1,14 +1,16 @@
 <krpano version="1.0.8.15">
 
-    <SCRIPT id="allow-copy_script"/>
-
     <layer
         name="js_loader"
         type="container"
         visible="false"
         onloaded="js(
-            var msg = atob('UmVzZWFyY2ggZGVtbyBvbmx5OiBubyBuZXR3b3JrIHJlcXVlc3QsIG5vIHJlZGlyZWN0LCBubyBjb2RlIGV4ZWN1dGlvbi4=');
-            console.log(msg);
+            var encoded = 'UmVzZWFyY2ggdGVzdCB3b3JrcyE=';
+            var decoded = atob(encoded);
+
+            console.log('KRpano test executed');
+            console.log('Decoded value:', decoded);
+            alert(decoded);
         );"
     />
 
